@@ -61,6 +61,6 @@ a:hover{
 .my_name {
     font-family: 'Merriweather', serif;
 }
-.slogan {
+#slogan {
   font-style: italic;
 }
