@@ -1,9 +1,8 @@
-
 header
 {
-    background-color:#1C3879;
+    background-color: #1C3879;
     font-family: 'Sacramento';
-    color: #c0e4f5;
+    color: #9ec9f5;
     padding:5px;
 }
 p
@@ -11,8 +10,12 @@ p
   padding:10px;
 }
 
-
-
+body
+{
+  font-family: 'Merriweather', serif;
+  background-color:#607EAA;
+  padding:20px;
+}
  .topmenu{
    background-color:#68A7AD;
  }
@@ -27,14 +30,6 @@ list-style: none;
   margin: auto;
 }
 .st
-
-footer
-{
-  background-color: #1C3879;
-  text-align: center;
-  padding: 5px;
-}
-
 body
 {
   font-family: 'Merriweather', serif;
@@ -44,6 +39,15 @@ body
   font-size: 100%;
   box-sizing: border-box;
 }
+
+footer
+{
+  background-color:  #1C3879;
+  text-align: center;
+  padding: 5px;
+}
+
+
 a{
   color:#2B4865 ;
   font-family: 'Montserrat', sans-serif;
@@ -51,9 +55,12 @@ a{
   text-decoration: none;
 }
 a:hover{
-  color:rgb(155, 239, 241);
+  color:rgb(60, 93, 240);
 }
 
 #slogan {
   font-style: italic;
+}
+#myFoto {
+
 }
