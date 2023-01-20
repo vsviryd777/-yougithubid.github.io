@@ -2,7 +2,7 @@
 header
 {
     background-color: #898AA6;
-    font-family: 'Sacramento', cursive;
+    font-family: 'Sacramento';
     color: #2B4865;
     padding:5px;
 }
@@ -61,4 +61,7 @@ a:hover{
 
 #slogan {
   font-style: italic;
+}
+#myFoto {
+
 }
