@@ -13,6 +13,7 @@ p
 
 body
 {
+  font-family: 'Merriweather', serif;
   background-color:#C9BBCF;
   padding:20px;
 }
@@ -32,8 +33,6 @@ list-style: none;
 .st
 body
 {
- 
-  
   font-family: 'Merriweather', serif;
   color:black ;
   text-align: left;
@@ -57,11 +56,9 @@ a{
   text-decoration: none;
 }
 a:hover{
-  color:#5800FF;
+  color:#7286D3;
 }
-.my_name {
-    font-family: 'Merriweather', serif;
-}
+
 #slogan {
   font-style: italic;
 }
