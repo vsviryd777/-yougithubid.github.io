@@ -1,7 +1,7 @@
 
 header
 {
-    background-color: #898AA6;
+    background-color:#1C3879;
     font-family: 'Sacramento';
     color: #2B4865;
     padding:5px;
@@ -14,9 +14,13 @@ p
 body
 {
   font-family: 'Merriweather', serif;
-  background-color:#C9BBCF;
-  padding:20px;
+  color:black ;
+  text-align: left;
+  background-color: #607EAA;
+  font-size: 100%;
+  box-sizing: border-box;
 }
+
  .topmenu{
    background-color:#68A7AD;
  }
@@ -31,19 +35,10 @@ list-style: none;
   margin: auto;
 }
 .st
-body
-{
-  font-family: 'Merriweather', serif;
-  color:black ;
-  text-align: left;
-  background-color: #E8F9FD;
-  font-size: 100%;
-  box-sizing: border-box;
-}
 
 footer
 {
-  background-color:  #898AA6;
+  background-color: #1C3879;
   text-align: center;
   padding: 5px;
 }
@@ -56,7 +51,7 @@ a{
   text-decoration: none;
 }
 a:hover{
-  color:rgb(245, 206, 248);
+  color:rgb(155, 239, 241);
 }
 
 #slogan {
