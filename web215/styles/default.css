@@ -1,68 +1,59 @@
 
+body
+{
+  font-family: 'Merriweather Sans', sans-serif;
+  background-color:#EAFDFC;
+  color:#4C6793;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+main {
+        margin-left:50px;
+        margin-right:50px;
+}
+ 
 header
 {
-    background-color: #898AA6;
-    font-family: 'Sacramento';
+    background-color:#BFEAF5;
     text-align: center;
-    color: #2B4865;
+    font-family: 'Lobster', cursive;
+    color: #3795BD;
     padding:5px;
 }
-p
-{
-  padding:10px;
-}
 
-body
-{
-  font-family: 'Merriweather', serif;
-  background-color:#C9BBCF;
-  padding:20px;
+p{
+text-align: justify;
 }
- .topmenu{
-   background-color:#68A7AD;
- }
- .topmenu ul
- {
-display: inline-flex;
-list-style: none;
-}
-.topmenu ul li
-{
-  width: 120px;
-  margin: auto;
-}
-.st
-body
-{
-  font-family: 'Merriweather', serif;
-  color:black ;
-  text-align: left;
-  background-color: #E8F9FD;
-  font-size: 100%;
-  box-sizing: border-box;
-}
-
 footer
 {
-  background-color:  #898AA6;
+  background-color: #BFEAF5;
+  color:#3795BD;
+  font-family: 'Inter', sans-serif;
   text-align: center;
   padding: 5px;
 }
 
 
 a{
-  color:#2B4865 ;
-  font-family: 'Montserrat', sans-serif;
+  color:#FFBF00;
+  font-family: 'Merriweather Sans', sans-serif;
   margin:50px 20px;
   text-decoration: none;
 }
+
 a:hover{
-  color:rgb(245, 206, 248);
+  color:#3795BD;
 }
 
 #slogan {
   font-style: italic;
 }
-#myFoto {
-
+figure {
+  text-align: center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
