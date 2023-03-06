@@ -3,7 +3,7 @@ body
 {
   font-family: 'Merriweather Sans', sans-serif;
   background-color:#DEFCF9;
-  color:#4C6793;
+  color:#2b617e;
   margin-left: 100px;
   margin-right: 100px;
 }
@@ -18,7 +18,7 @@ header
     background-color:#95BDFF;
     text-align: center;
     font-family: 'Lobster', cursive;
-    color: #042e23;
+    color: #2b617e;
     padding:5px;
 }
 
@@ -28,7 +28,7 @@ text-align: justify;
 footer
 {
   background-color: #95BDFF;
-  color:#3795BD;
+  color:#2b617e;
   font-family: 'Inter', sans-serif;
   text-align: center;
   padding: 5px;
@@ -43,7 +43,7 @@ a{
 }
 
 a:hover{
-  color:#3795BD;
+  color:#2b617e;
 }
 
 #slogan {
