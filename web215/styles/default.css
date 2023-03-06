@@ -15,7 +15,7 @@ main {
  
 header
 {
-    background-color:#95BDFF;
+    background-color:#85CDFD;
     text-align: center;
     font-family: 'Lobster', cursive;
     color: #2b617e;
@@ -27,7 +27,7 @@ text-align: justify;
 }
 footer
 {
-  background-color: #95BDFF;
+  background-color: #85CDFD;
   color:#2b617e;
   font-family: 'Inter', sans-serif;
   text-align: center;
