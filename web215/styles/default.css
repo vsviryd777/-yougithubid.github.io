@@ -2,7 +2,7 @@
 body
 {
   font-family: 'Merriweather Sans', sans-serif;
-  background-color #DFFFD8;
+  background-color:rgb(154, 233, 222) #4C679;
   color:#4C6793;
   margin-left: 100px;
   margin-right: 100px;
@@ -15,7 +15,7 @@ main {
  
 header
 {
-    background-color:#BFEAF5;
+    background-color:#95BDFF;
     text-align: center;
     font-family: 'Lobster', cursive;
     color: #3795BD;
@@ -27,7 +27,7 @@ text-align: justify;
 }
 footer
 {
-  background-color: #BFEAF5;
+  background-color: #95BDFF;
   color:#3795BD;
   font-family: 'Inter', sans-serif;
   text-align: center;
